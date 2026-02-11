@@ -1,6 +1,6 @@
 Kurulumu:
-git clone https://github.com/kadirburlukkara/Basit_Log_Analizi.py.git /n
-cd Basit_Log_Analizi.py /n
+git clone https://github.com/kadirburlukkara/Basit_Log_Analizi.py.git \n
+cd Basit_Log_Analizi.py \n
 pip install rich
 
 Kullanımı:
