@@ -1,9 +1,12 @@
 Kurulumu:
-git clone https://github.com/kadirburlukkara/Basit_Log_Analizi.py.git \n
-cd Basit_Log_Analizi.py \n
+git clone https://github.com/kadirburlukkara/Basit_Log_Analizi.py.git
+
+cd Basit_Log_Analizi.py
+
 pip install rich
 
 Kullanımı:
+
 python log_analizi.py
 
 Analiz etmek istediğimiz log dosyasının bir kopyasını bu dosyanın ana dizinine koyuyoruz
