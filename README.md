@@ -1,19 +1,14 @@
-Kurulumu:
+---Kurulumu:
+
 git clone https://github.com/kadirburlukkara/Basit_Log_Analizi.py.git
 
 cd Basit_Log_Analizi.py
 
 pip install rich
 
-
-
-
-Kullanımı:
+---Kullanımı:
 
 python log_analizi.py
-
-
-
 
 Analiz etmek istediğimiz log dosyasının bir kopyasını bu dosyanın ana dizinine koyuyoruz
 
